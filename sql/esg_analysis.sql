@@ -1,6 +1,6 @@
 
 -- ESG Performance & Risk Intelligence
--- SQL analysis using SQLite
+-- SQL analysis using MySQL Workbench
 -- Dataset: 245 S&P 500 companies
 -- Note: Higher ESG scores are treated as higher risk indicators.
 -- Historical snapshot: 3 March 2021.
