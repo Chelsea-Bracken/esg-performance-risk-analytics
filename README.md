@@ -175,4 +175,46 @@ esg-performance-risk-analytics/
 ├── report/
 │   └── ESG_Performance_Risk_Intelligence_Report.docx
 │
-└
+└── README.md
+
+9. Limitations
+
+The dataset represents a historical snapshot dated 3 March 2021 and does not reflect current ESG performance.
+
+The precise source scoring methodology and score direction have not been independently verified.
+
+The high-priority classification is a project-defined screening rule, not a predictive model or regulatory classification.
+
+Correlation results do not establish causation.
+
+Sector sample sizes vary.
+
+Financial metrics may be affected by differences in scale, reporting periods and sector composition.
+
+10. Future Scope
+
+Incorporate more recent ESG datasets.
+
+Extend the analysis to multiple years to study changes in ESG performance.
+
+Explore predictive modelling after establishing a consistent and sufficiently large dataset.
+
+Introduce sector-adjusted comparisons and additional financial controls.
+
+Expand the dashboard with further company-level risk indicators.
+
+11. Project Deliverables
+
+Python exploratory analysis notebook
+
+MySQL analytical query script
+
+Four-page interactive Power BI dashboard
+
+Business analysis report
+
+Dashboard screenshots and project documentation
+
+Project Category: Business Analytics | ESG Analytics | Data Visualisation
+
+Tools: Python | MySQL | Power BI | GitHub
