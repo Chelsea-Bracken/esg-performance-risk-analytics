@@ -1,4 +1,3 @@
-
 # ESG Performance & Risk Intelligence
 
 **An end-to-end business analytics project analysing ESG performance, sector-level risk patterns and company-level ESG indicators using Python, MySQL and Power BI.**
@@ -7,7 +6,7 @@
 [![MySQL](https://img.shields.io/badge/MySQL-Database-orange)](https://www.mysql.com/)
 [![Power BI](https://img.shields.io/badge/Power%20BI-Dashboard-yellow)](https://powerbi.microsoft.com/)
 
-
+---
 
 ## 1. Project Overview
 
@@ -17,7 +16,7 @@ This project examines ESG scores and financial indicators across **245 S&P 500 c
 
 The project follows an end-to-end analytical workflow involving data preparation, exploratory analysis, SQL-based querying and interactive dashboard development.
 
-Dataset snapshot: 3 March 2021.
+**Dataset snapshot: 3 March 2021.**
 
 ## 2. Business Objectives
 
@@ -176,45 +175,35 @@ esg-performance-risk-analytics/
 │   └── ESG_Performance_Risk_Intelligence_Report.docx
 │
 └── README.md
+```
 
-9. Limitations
+## 9. Limitations
 
-The dataset represents a historical snapshot dated 3 March 2021 and does not reflect current ESG performance.
+- The dataset represents a historical snapshot dated 3 March 2021 and does not reflect current ESG performance.
+- The precise source scoring methodology and score direction have not been independently verified.
+- The high-priority classification is a project-defined screening rule, not a predictive model or regulatory classification.
+- Correlation results do not establish causation.
+- Sector sample sizes vary.
+- Financial metrics may be affected by differences in scale, reporting periods and sector composition.
 
-The precise source scoring methodology and score direction have not been independently verified.
+## 10. Future Scope
 
-The high-priority classification is a project-defined screening rule, not a predictive model or regulatory classification.
+- Incorporate more recent ESG datasets.
+- Extend the analysis to multiple years to study changes in ESG performance.
+- Explore predictive modelling after establishing a consistent and sufficiently large dataset.
+- Introduce sector-adjusted comparisons and additional financial controls.
+- Expand the dashboard with further company-level risk indicators.
 
-Correlation results do not establish causation.
+## 11. Project Deliverables
 
-Sector sample sizes vary.
+- Python exploratory analysis notebook
+- MySQL analytical query script
+- Four-page interactive Power BI dashboard
+- Business analysis report
+- Dashboard screenshots and project documentation
 
-Financial metrics may be affected by differences in scale, reporting periods and sector composition.
+---
 
-10. Future Scope
+**Project Category:** Business Analytics | ESG Analytics | Data Visualisation
 
-Incorporate more recent ESG datasets.
-
-Extend the analysis to multiple years to study changes in ESG performance.
-
-Explore predictive modelling after establishing a consistent and sufficiently large dataset.
-
-Introduce sector-adjusted comparisons and additional financial controls.
-
-Expand the dashboard with further company-level risk indicators.
-
-11. Project Deliverables
-
-Python exploratory analysis notebook
-
-MySQL analytical query script
-
-Four-page interactive Power BI dashboard
-
-Business analysis report
-
-Dashboard screenshots and project documentation
-
-Project Category: Business Analytics | ESG Analytics | Data Visualisation
-
-Tools: Python | MySQL | Power BI | GitHub
+**Tools:** Python | MySQL | Power BI | GitHub
